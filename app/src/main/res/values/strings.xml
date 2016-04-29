@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextInputLayoutDemo</string>
+    <string name="EnterName">请输入姓名</string>
+    <string name="EnterPassWord">请输入密码</string>
+    <string name="EnterEmail">请输入邮箱地址</string>
+    <string name="login">登录</string>
+    <string name="error_name">请检查姓名是否有误</string>
+    <string name="error_password">请检查密码是否有误</string>
+    <string name="error_email">请检查邮箱是否有误</string>
+    <string name="login_success">登陆成功</string>
+    <string name="check">请仔细检查未完成项</string>
+</resources>
